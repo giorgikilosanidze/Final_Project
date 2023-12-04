@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 118">
+<rect x="1" y="1" width="46" height="46" rx="7" fill="#B53B1B"/>
+<rect x="1" y="1" width="46" height="46" rx="7" stroke="white" stroke-width="2"/>
+<path id="Vector" d="M32 18C32 16.9 31.28 16 30.4 16H17.6C16.72 16 16 16.9 16 18V30C16 31.1 16.72 32 17.6 32H30.4C31.28 32 32 31.1 32 30V18ZM30.4 18L24 23L17.6 18H30.4ZM30.4 30H17.6V20L24 25L30.4 20V30Z" fill="white"/>
+</g>
+</svg>
